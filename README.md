@@ -6,7 +6,7 @@
 ## Important links <a name="importantlinks"></a>
 [Restoring database instructions (Discord message link)](https://discord.com/channels/948760909092892703/952332552281161798/959631856599449660)
 <br>
-[JDBC files (msg Dxide#0718 for questions on this)](https://discord.com/channels/948760909092892703/959647408634097704)
+[JDBC files (Discord Link)](https://discord.com/channels/948760909092892703/959647408634097704)
 <br>
 
 <a name="first"><h2>Meeting #1, April 1</h2></a>
@@ -24,7 +24,7 @@
       * DEADLINE: Monday, April 4 @9pm (before the meeting)
       * ```Alter all of the tables in this project and add the following columns to each of the tables:```
         ![image](https://user-images.githubusercontent.com/31665473/161365241-54d15985-e581-40e7-bca7-5dd7efeb2748.png)
-    - Make sure you [download](https://discord.com/channels/948760909092892703/959647408634097704) the java file and install your JDBC (Use eclipse IDE) because YOU will record yourself running queries. Msg Dxide#0718 for questions about how to use our JDBC.
+    - Make sure you [download](https://discord.com/channels/948760909092892703/959647408634097704) the java file and install your JDBC (Use eclipse IDE) because YOU will record yourself running queries.
     - Please read the specification of the project.
   * Group decided to meet again at Monday @9pm.
 
